@@ -1,4 +1,4 @@
-w# 🏍️ Mottu Challenge 2025 – DevOps (FIAP)
+# 🏍️ Mottu Challenge 2025 – DevOps (FIAP)
 
 Repositório da solução desenvolvida para o **Challenge 2025** da FIAP, disciplina **DevOps Tools & Cloud Computing**. O projeto propõe uma API RESTful para mapeamento e gestão de motocicletas em pátios da empresa **Mottu**, utilizando ASP.NET Core, Docker e deploy em nuvem via Azure CLI.
 
