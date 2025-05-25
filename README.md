@@ -7,7 +7,7 @@ Repositório da solução desenvolvida para o **Challenge 2025** da FIAP, discip
 - Gustavo Goulart Bretas – RM555708
 - Victor Nieves Britto Medeiros – RM554557
 - Alice Teixeira Caldeira – RM556293
-- 
+
 ## 🛠️ Tecnologias Utilizadas
 
 - ASP.NET Core 9.0
@@ -81,6 +81,7 @@ dotnet run
 ---
 
 📂 Links Importantes
+
 🔗 GitHub: [https://github.com/seu-usuario/mottu-api](https://github.com/GuGoulart/devops-fiap-challenge)
 
 📽️ Vídeo da entrega: https://youtu.be/cyCjrkpXW7w
